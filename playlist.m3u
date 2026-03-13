@@ -1,0 +1,522 @@
+#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="KAPAMILYA" tvg-logo="http://115.146.176.131:80/images/a9ff7a33ed0f05356304efb5fee20731.png" group-title="ph live",KAPAMILYA
+http://115.146.176.131:80/play/N03hdmyNePvJGy8dpWOJC7BFpmRhUmqeTlDsVmI1DZ4/ts
+
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="GMA" tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="ph live",GMA
+http://115.146.176.131:80/play/9O1L8psbpfoAU-iuodTG3ZXY_pvYrvNNfGe-ONBwHWQ/ts
+
+
+#EXTINF:-1 tvg-id="CineMo.ph@SD",CineMo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD",Cinema One (1080p)
+http://115.146.176.131:80/play/h7VRs_e0_QagS0g0Rqyz8Y4Gqac6-0Qvj6Lngi9jmW0/ts
+
+#EXTINF:-1 tvg-id="Myx.ph@HD",MYX (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="PTV.ph@HD",PTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+
+#EXTINF:-1 tvg-id="TeleRadyo.ph@HD",TeleRadyo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="AniplusAsia.sg@SD",Aniplus Asia (720p)
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimexHIDIVE.us",ANIME x HIDIVE (720p)
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Kung Fu+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AEEast.us@SD",AEEast (360p)
+https://tvpass.org/live/AEEast/sd
+
+
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCNetwork (360p)
+https://tvpass.org/live/ACCNetwork/sd
+
+
+#EXTINF:-1 tvg-id="AMCEast.us@SD",AMCEast (360p)
+https://tvpass.org/live/AMCEast/sd
+
+
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD",AmericanHeroesChannel (360p)
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
+#EXTINF:-1 tvg-id="AnimalPlanetEast.us@SD",AnimalPlanetEast (360p)
+https://tvpass.org/live/AnimalPlanetEast/sd
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",beIN SPORTS XTRA (1080p)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
+
+#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p)
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us@SD",BBCAmericaEast (360p)
+https://tvpass.org/live/BBCAmericaEast/sd
+
+#EXTINF:-1 tvg-id="BETEast.us@SD",BETEast (360p)
+https://tvpass.org/live/BETEast/sd
+
+
+#EXTINF:-1 tvg-id="BETHerEast.us@SD",BETHerEast (360p)
+https://tvpass.org/live/BETHerEast/sd
+
+
+#EXTINF:-1 tvg-id="BTN.us@SD",BTN (360p)
+https://tvpass.org/live/BTN/sd
+
+
+#EXTINF:-1 tvg-id="Bloomberg.us@SD",Bloomberg (360p)
+https://tvpass.org/live/Bloomberg/sd
+
+
+#EXTINF:-1 tvg-id="Boomerang.us@SD",Boomerang (360p)
+https://tvpass.org/live/Boomerang/sd
+
+
+#EXTINF:-1 tvg-id="BravoEast.us@SD",BravoEast (360p)
+https://tvpass.org/live/BravoEast/sd
+
+
+#EXTINF:-1 tvg-id="CSPAN2.us@SD",CSPAN2 (360p)
+https://tvpass.org/live/CSPAN2/sd
+
+
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (360p)
+https://tvpass.org/live/CNBC/sd
+
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",CrimePlusInvestigation (360p)
+https://tvpass.org/live/CrimePlusInvestigation/sd
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us@SD",CartoonNetworkEast (360p)
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+
+
+#EXTINF:-1 tvg-id="CinemaxEast.us@SD",CinemaxEast (360p)
+https://tvpass.org/live/CinemaxEast/sd
+
+
+#EXTINF:-1 tvg-id="CMTEast.us@SD",CMTEast (360p)
+https://tvpass.org/live/CMTEast/sd
+
+
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (360p)
+https://tvpass.org/live/CNBC/sd
+
+
+#EXTINF:-1 tvg-id="CNN.us@SD",CNN (360p)
+https://tvpass.org/live/CNN/sd
+
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us@SD",ComedyCentralEast (360p)
+https://tvpass.org/live/ComedyCentralEast/sd
+
+
+#EXTINF:-1 tvg-id="DiscoveryChannelEast.us@SD",DiscoveryChannelEast (360p)
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+
+
+#EXTINF:-1 tvg-id="DiscoveryFamily.us@SD",DiscoveryFamily(360p)
+https://tvpass.org/live/DiscoveryFamily/sd
+
+
+#EXTINF:-1 tvg-id="DiscoveryLife.us@SD",DiscoveryLife(360p)
+https://tvpass.org/live/DiscoveryLife/sd
+
+
+
+#EXTINF:-1 tvg-id="DisneyChannelEast.us@SD",DisneyChannelEast(360p)
+https://tvpass.org/live/DisneyChannelEast/sd
+
+
+#EXTINF:-1 tvg-id="DisneyJuniorEast.us@SD",DisneyJuniorEast(360p)
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+
+#EXTINF:-1 tvg-id="DisneyXDEast.us@SD",DisneyXDEast(360p)
+https://tvpass.org/live/DisneyXDEast/sd
+
+
+#EXTINF:-1 tvg-id="EEast.us@SD",E!(360p)
+https://tvpass.org/live/EEast/sd
+
+
+#EXTINF:-1 tvg-id="ESPN.us@SD",ESPN(360p)
+https://tvpass.org/live/ESPN/sd
+
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU(360p)
+https://tvpass.org/live/ESPNU/sd
+
+#EXTINF:-1 tvg-id="ESPN2.us@SD",ESPN2(360p)
+https://tvpass.org/live/ESPN2/sd
+
+#EXTINF:-1 tvg-id="",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeformEast.us@SD",FreeformEast(360p)
+https://tvpass.org/live/FreeformEast/sd
+
+
+#EXTINF:-1 tvg-id="FuseEast.us@SD",FuseEast(360p)
+https://tvpass.org/live/FuseEast/sd
+
+
+#EXTINF:-1 tvg-id="FoxBusiness.us@SD",FoxBusiness(360p)
+https://tvpass.org/live/FoxBusiness/sd
+
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",FoxNewsChannel(360p)
+https://tvpass.org/live/FoxNewsChannel/sd
+
+
+#EXTINF:-1 tvg-id="FoxSports2.us@SD",FoxSports2(360p)
+https://tvpass.org/live/FoxSports2/sd
+
+
+
+#EXTINF:-1 tvg-id="FuseEast.us@SD",FuseEast(360p)
+https://tvpass.org/live/FuseEast/sd
+
+
+#EXTINF:-1 tvg-id="FXEast.us@SD",FXEast(360p)
+https://tvpass.org/live/FXEast/sd
+
+
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",HallmarkDrama(360p)
+https://tvpass.org/live/HallmarkDrama/sd
+
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteriesEast.us@SD",HallmarkMoviesMysteriesEast(360p)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+
+#EXTINF:-1 tvg-id="HBOEast.us@SD",HBOEast(360p)
+https://tvpass.org/live/HBOEast/sd
+
+
+#EXTINF:-1 tvg-id="HBO2East.us@SD",HBO2East(360p)
+https://tvpass.org/live/HBO2East/sd
+
+
+#EXTINF:-1 tvg-id="HBOComedyEast.us@SD",HBOComedyEast(360p)
+https://tvpass.org/live/HBOComedyEast/sd
+
+
+#EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBOSignatureEast(360p)
+https://tvpass.org/live/HBOFamilyEast/sd
+
+
+#EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBOSignatureEast(360p)
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 tvg-id="HBOZoneEast.us@SD",HBOZoneEast(360p)
+https://tvpass.org/live/HBOZoneEast/sd
+
+
+#EXTINF:-1 tvg-id="HGTVEast.us@SD",HGTVEast(360p)
+https://tvpass.org/live/HGTVEast/sd
+
+
+#EXTINF:-1 tvg-id="HistoryEast.us@SD",HistoryEast(360p)
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="",Alone By History (720p)
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="HLN.us@SD",HLN(360p)
+https://tvpass.org/live/HLN/sd
+
+
+
+#EXTINF:-1 tvg-id="IFCEast.us@SD",IFCEast(360p)
+https://tvpass.org/live/IFCEast/sd
+
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us@SD",InvestigationDiscoveryEast(360p)
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+#EXTINF:-1 tvg-id="IONTVEast.us@SD",IONTVEast(360p)
+https://tvpass.org/live/IONTVEast/sd
+
+
+#EXTINF:-1 tvg-id="LifetimeMoviesEast.us@SD",LifetimeMoviesEast(360p)
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
+
+#EXTINF:-1 tvg-id="LogoEast.us@SD",LogoEast(360p)
+https://tvpass.org/live/LogoEast/sd
+
+
+#EXTINF:-1 tvg-id="msg-madison-square-gardens.us@SD",msg-madison-square-gardens(360p)
+https://tvpass.org/live/msg-madison-square-gardens/sd
+
+#EXTINF:-1 tvg-id="msg-plus.us@SD",msg-madison-square-gardens(360p)
+https://tvpass.org/live/msg-plus/sd
+
+#EXTINF:-1 tvg-id="MSNBC.us@SD",msg-madison-square-gardens(360p)
+https://tvpass.org/live/MSNBC/sd
+
+#EXTINF:-1 tvg-id="marquee-sports-network.us@SD",marquee-sports-network(360p)
+https://tvpass.org/live/marquee-sports-network/sd
+
+#EXTINF:-1 tvg-id="metv-toons.us@SD",metv-toons(360p)
+https://tvpass.org/live/metv-toons/sd
+
+
+#EXTINF:-1 tvg-id="MLBNetowrk.us@SD",MLBNetowrk(360p)
+https://tvpass.org/live/MLBNetowrk/sd
+
+
+#EXTINF:-1 tvg-id="MoreMaxEast.us@SD",MoreMaxEast(360p)
+https://tvpass.org/live/MoreMaxEast/sd
+
+
+#EXTINF:-1 tvg-id="MovieMaxEast.us@SD",MovieMaxEast(360p)
+https://tvpass.org/live/MovieMaxEast/sd
+
+#EXTINF:-1 tvg-id="Motortrend.us@SD",Motortrend(360p)
+https://tvpass.org/live/Motortrend/sd
+
+
+#EXTINF:-1 tvg-id="MSNBC.us@SD",MSNBC(360p)
+https://tvpass.org/live/MSNBC/sd
+
+#EXTINF:-1 tvg-id="mtv-2-east.us@SD",mtv-2-east(360p)
+https://tvpass.org/live/mtv-2-east/sd
+
+#EXTINF:-1 tvg-id="MTVEast.us@SD",MTVEast(360p)
+https://tvpass.org/live/MTVEast/sd
+
+#EXTINF:-1 tvg-id="KidsPangTV.us@SD",Kids Pang TV (1080p)
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Barbie and Friends (1080p)
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us",HappyKids (1080p)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us@SD",MBATV(360p)
+https://tvpass.org/live/NBATV/sd
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWKPOP.us@SD",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicEast.us@SD",NationalGeographicEast(360p)
+https://tvpass.org/live/NationalGeographicEast/sd
+
+
+
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us@SD",NationalGeographicWildEast(360p)
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/NewsmaxTV/sd
+
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFLRedZone(360p)
+https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFLNetwork(360p)
+https://tvpass.org/live/NFLNetwork/sd
+
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHLNetwork(360p)
+https://tvpass.org/live/NHLNetwork/sd
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJrEast.us@SD",NickJrEast(360p)
+https://tvpass.org/live/NickJrEast/sd
+
+#EXTINF:-1 tvg-id="NickelodeonEast.us@SD",NickelodeonEast(360p)
+https://tvpass.org/live/NickelodeonEast/sd
+
+#EXTINF:-1 tvg-id="NicktoonsEast.us@SD",NicktoonsEast(360p)
+https://tvpass.org/live/NicktoonsEast/sd
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",ewsmaxTV(360p)
+https://tvpass.org/live/OWNEast/sd
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/OutdoorChannel/sd
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OxygenEast.us@SD",OxygenEast(360p)
+https://tvpass.org/live/OxygenEast/sd
+
+#EXTINF:-1 tvg-id="WNET.us@SD",WNET(360p)
+https://tvpass.org/live/WNET/sd
+
+#EXTINF:-1 tvg-id="Reelz.us@SD",Reelz(360p)
+https://tvpass.org/live/Reelz/sd
+
+#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Science.us@SD",Science(360p)
+https://tvpass.org/live/Science/sd
+
+#EXTINF:-1 tvg-id="ShowtimeEast.us@SD",ShowtimeEast(360p)
+https://tvpass.org/live/ShowtimeEast/sd
+
+#EXTINF:-1 tvg-id="Showtime2East.us@SD",Showtime2East(360p)
+https://tvpass.org/live/Showtime2East/sd
+
+#EXTINF:-1 tvg-id="StarzEast.us@SD",StarzEast(360p)
+https://tvpass.org/live/StarzEast/sd
+
+#EXTINF:-1 tvg-id="SundanceTVEast.us@SD",SundanceTVEast(360p)
+https://tvpass.org/live/SundanceTVEast/sd
+
+#EXTINF:-1 tvg-id="SyfyEast.us@SD",SyfyEast(360p)
+https://tvpass.org/live/SyfyEast/sd
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sports Stars (1080p)
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us@SD",TBSEast(360p)
+https://tvpass.org/live/TBSEast/sd
+
+#EXTINF:-1 tvg-id="TeenNickEast.us@SD",TeenNickEast(360p)
+https://tvpass.org/live/TeenNickEast/sd
+
+#EXTINF:-1 tvg-id="elemundoEast.us@SD",elemundoEast(360p)
+https://tvpass.org/live/TelemundoEast/sd
+
+#EXTINF:-1 tvg-id="CookingChannel.us@SD",CookingChannel(360p)
+https://tvpass.org/live/CookingChannel/sd
+
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",TennisChannel(360p)
+https://tvpass.org/live/TennisChannel/sd
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/TLCEast/sd
+
+#EXTINF:-1 tvg-id="TheMovieChannelEast.us@SD",TheMovieChannelEast360p)
+https://tvpass.org/live/TheMovieChannelEast/sd
+
+#EXTINF:-1 tvg-id="TNTEast.us@SD",TNTEast(360p)
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1 tvg-id="TravelChannelEast.us@SD",TravelChannelEast(360p)
+https://tvpass.org/live/TravelChannelEast/sd
+
+#EXTINF:-1 tvg-id="truTVEast.us@SD",truTVEast(360p)
+https://tvpass.org/live/truTVEast/sd
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/TCMEast/sd
+
+#EXTINF:-1 tvg-id="TVOne.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/TVOne/sd
+
+#EXTINF:-1 tvg-id="tv-land-eastern.us@SD",tv-land-eastern(360p)
+https://tvpass.org/live/tv-land-eastern/sd
+
+#EXTINF:-1 tvg-id="USANetworkEast.us@SD",USANetworkEast(360p)
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 tvg-id="UniversalKidsEast.us@SD",UniversalKidsEast(360p)
+https://tvpass.org/live/UniversalKidsEast/sd
+
+#EXTINF:-1 tvg-id="UnivisionEast.us@SD",UnivisionEast(360p)
+https://tvpass.org/live/UnivisionEast/sd
+
+#EXTINF:-1 tvg-id="USANetworkEast.us@SD",USANetworkEast(360p)
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 tvg-id="VH1East.us@SD",VH1East(360p)
+https://tvpass.org/live/VH1East/sd
+
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p)
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PopstarTV.us@SD",Popstar! TV (1080p) [Not 24/7]
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/VICETV/sd
+
+#EXTINF:-1 tvg-id="WeTVEast.us@SD",WeTVEast(360p)
+https://tvpass.org/live/WeTVEast/sd
+
+#EXTINF:-1 tvg-id="WPIX.us@SD",WPIX(360p)
+https://tvpass.org/live/WPIX/sd
+
+#EXTINF:-1 tvg-id="yes-network.us@SD",NewsmaxTV(360p)
+https://tvpass.org/live/yes-network/sd
+
+#EXTINF:-1 tvg-id="INFAST.nl",INFAST (1080p)
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-id="",Profesional Fighter League (720p)
+https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PGATour.us",PGA Tour (1080p) [Geo-blocked]
+https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Best Action TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Bang Bang TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Best Drama TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+#EXTINF:-1 tvg-id="",Best Thriller TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Fight TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Sci-Fi World
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us@AU",MovieSphere AU (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us@UK",MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
