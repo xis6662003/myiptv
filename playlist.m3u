@@ -196,7 +196,7 @@ https://tvpass.org/live/FuseEast/sd
 https://tvpass.org/live/FXEast/sd
 
 
-#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",HallmarkDrama(360p)
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama
 https://tvpass.org/live/HallmarkDrama/sd
 
 
@@ -204,35 +204,35 @@ https://tvpass.org/live/HallmarkDrama/sd
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 
 
-#EXTINF:-1 tvg-id="HBOEast.us@SD",HBOEast(360p)
-https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 tvg-id="HBOEast.us@SD",HBO HD
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO2East.us@SD",HBO2East(360p)
-https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1 tvg-id="HBO2East.us@SD",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBOComedyEast.us@SD",HBOComedyEast(360p)
-https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="HBOComedyEast.us@SD",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBOSignatureEast(360p)
-https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBO Family
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBOSignatureEast(360p)
 https://tvpass.org/live/HBOSignatureEast/sd
 
 #EXTINF:-1 tvg-id="HBOZoneEast.us@SD",HBOZoneEast(360p)
-https://tvpass.org/live/HBOZoneEast/sd
+http://23.237.104.106:8080/USA_HBOZONE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HGTVEast.us@SD",HGTVEast(360p)
 https://tvpass.org/live/HGTVEast/sd
 
 
-#EXTINF:-1 tvg-id="HistoryEast.us@SD",HistoryEast(360p)
-https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1 tvg-id="HistoryEast.us@SD",History
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="",Alone By History (720p)
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
