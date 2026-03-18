@@ -187,8 +187,8 @@ https://tvpass.org/live/FoxSports2/sd
 https://tvpass.org/live/FuseEast/sd
 
 
-#EXTINF:-1 tvg-id="FXEast.us@SD",FXEast(360p)
-https://tvpass.org/live/FXEast/sd
+#EXTINF:-1 tvg-id="FXEast.us@SD",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama
