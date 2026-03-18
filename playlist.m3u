@@ -114,8 +114,8 @@ https://tvpass.org/live/CNBC/sd
 https://tvpass.org/live/CNN/sd
 
 
-#EXTINF:-1 tvg-id="ComedyCentralEast.us@SD",ComedyCentralEast (360p)
-https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1 tvg-id="ComedyCentralEast.us@SD",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us@SD",DiscoveryChannelEast 
