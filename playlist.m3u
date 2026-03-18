@@ -390,7 +390,7 @@ https://tvpass.org/live/StarzEast/sd
 https://tvpass.org/live/SundanceTVEast/sd
 
 #EXTINF:-1 tvg-id="SyfyEast.us@SD",SyfyEast(360p)
-https://tvpass.org/live/SyfyEast/sd
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sports Stars (1080p)
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
