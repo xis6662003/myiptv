@@ -87,8 +87,8 @@ https://tvpass.org/live/BravoEast/sd
 https://tvpass.org/live/CSPAN2/sd
 
 
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (360p)
-https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC 
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",CrimePlusInvestigation (360p)
