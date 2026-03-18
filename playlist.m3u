@@ -318,9 +318,8 @@ https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFLNetwork(360p)
 https://tvpass.org/live/NFLNetwork/sd
 
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHLNetwork(360p)
-https://tvpass.org/live/NHLNetwork/sd
-https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network
+https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJrEast.us@SD",NickJrEast(360p)
 https://tvpass.org/live/NickJrEast/sd
