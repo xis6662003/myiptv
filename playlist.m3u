@@ -261,10 +261,8 @@ https://tvpass.org/live/MSNBC/sd
 #EXTINF:-1 tvg-id="MLBNetowrk.us@SD",MLB Netowrk
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="MoreMaxEast.us@SD",More Max
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
 
 #EXTINF:-1 tvg-id="MovieMaxEast.us@SD",MovieMaxEast(360p)
 https://tvpass.org/live/MovieMaxEast/sd
