@@ -277,8 +277,8 @@ https://tvpass.org/live/metv-toons/sd
 https://tvpass.org/live/MLBNetowrk/sd
 
 
-#EXTINF:-1 tvg-id="MoreMaxEast.us@SD",MoreMaxEast(360p)
-https://tvpass.org/live/MoreMaxEast/sd
+#EXTINF:-1 tvg-id="MoreMaxEast.us@SD",More Max
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MovieMaxEast.us@SD",MovieMaxEast(360p)
