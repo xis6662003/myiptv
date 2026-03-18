@@ -35,11 +35,10 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 #EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AEEast.us@SD",AEEast (360p)
+#EXTINF:-1 tvg-id="AEEast.us@SD",AEEast
 https://tvpass.org/live/AEEast/sd
 
-
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCNetwork (360p)
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network
 https://tvpass.org/live/ACCNetwork/sd
 
 
@@ -50,8 +49,8 @@ https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD",AmericanHeroesChannel (360p)
 https://tvpass.org/live/AmericanHeroesChannel/sd
 
-#EXTINF:-1 tvg-id="AnimalPlanetEast.us@SD",AnimalPlanetEast (360p)
-https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="AnimalPlanetEast.us@SD",Animal Planet 
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us",beIN SPORTS XTRA (1080p)
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
