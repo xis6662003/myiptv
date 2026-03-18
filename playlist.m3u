@@ -60,8 +60,8 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us@SD",BBCAmericaEast 
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BETEast.us@SD",BETEast (360p)
-https://tvpass.org/live/BETEast/sd
+#EXTINF:-1 tvg-id="BETEast.us@SD",BET
+http://23.237.104.106:8080/USA_BET/index.m3u8
 
 
 #EXTINF:-1 tvg-id="BETHerEast.us@SD",BETHerEast (360p)
