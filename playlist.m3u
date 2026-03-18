@@ -351,10 +351,8 @@ https://tvpass.org/live/Reelz/sd
 #EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Science.us@SD",Science(360p)
-https://tvpass.org/live/Science/sd
+#EXTINF:-1 tvg-id="SCI-FI.us@SD",SCI-FI WORLD
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us@SD",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
