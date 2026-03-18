@@ -439,8 +439,8 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="",Profesional Fighter League (720p)
 https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PGATour.us",PGA Tour (1080p) [Geo-blocked]
-https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PGATour.us",PGA Tour 
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Best Action TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
