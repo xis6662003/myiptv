@@ -358,11 +358,8 @@ https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Science.us@SD",Science(360p)
 https://tvpass.org/live/Science/sd
 
-#EXTINF:-1 tvg-id="ShowtimeEast.us@SD",ShowtimeEast(360p)
-https://tvpass.org/live/ShowtimeEast/sd
-
-#EXTINF:-1 tvg-id="Showtime2East.us@SD",Showtime2East(360p)
-https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 tvg-id="ShowtimeEast.us@SD",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzEast.us@SD",StarzEast(360p)
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
