@@ -102,8 +102,8 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CMTEast.us@SD",CMTEast (360p)
-https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1 tvg-id="CMTEast.us@SD",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (360p)
