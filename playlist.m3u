@@ -253,8 +253,8 @@ https://tvpass.org/live/LifetimeMoviesEast/sd
 #EXTINF:-1 tvg-id="LogoEast.us@SD",LogoEast(360p)
 https://tvpass.org/live/LogoEast/sd
 
-#EXTINF:-1 tvg-id="MSNBC.us@SD",msg-madison-square-gardens(360p)
-https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 tvg-id="MSNBC.us@SD",MSG
+https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetowrk.us@SD",MLB Netowrk
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
