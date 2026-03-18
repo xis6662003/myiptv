@@ -389,7 +389,7 @@ https://tvpass.org/live/StarzEast/sd
 #EXTINF:-1 tvg-id="SundanceTVEast.us@SD",SundanceTVEast(360p)
 https://tvpass.org/live/SundanceTVEast/sd
 
-#EXTINF:-1 tvg-id="SyfyEast.us@SD",SyfyEast(360p)
+#EXTINF:-1 tvg-id="SyfyEast.us@SD",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sports Stars (1080p)
