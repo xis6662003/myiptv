@@ -45,8 +45,8 @@ https://tvpass.org/live/ACCNetwork/sd
 https://tvpass.org/live/AMCEast/sd
 
 
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD",American Heroes Channel 
-https://tvpass.org/live/AmericanHeroesChannel/sd
+#EXTINF:-1 tvg-id="OUTDOOR.us@SD",OUTDOOR CHANNEL 
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetEast.us@SD",Animal Planet 
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
