@@ -130,8 +130,6 @@ https://tvpass.org/live/DiscoveryFamily/sd
 #EXTINF:-1 tvg-id="DiscoveryLife.us@SD",DiscoveryLife(360p)
 https://tvpass.org/live/DiscoveryLife/sd
 
-
-
 #EXTINF:-1 tvg-id="DisneyChannelEast.us@SD",DisneyChannelEast(360p)
 https://tvpass.org/live/DisneyChannelEast/sd
 
@@ -139,10 +137,8 @@ https://tvpass.org/live/DisneyChannelEast/sd
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us@SD",DisneyJuniorEast(360p)
 https://tvpass.org/live/DisneyJuniorEast/sd
 
-
-#EXTINF:-1 tvg-id="DisneyXDEast.us@SD",DisneyXDEast(360p)
-https://tvpass.org/live/DisneyXDEast/sd
-
+#EXTINF:-1 tvg-id="DisneyXDEast.us@SD",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="EEast.us@SD",E!(360p)
 https://tvpass.org/live/EEast/sd
