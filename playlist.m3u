@@ -252,26 +252,11 @@ https://tvpass.org/live/IONTVEast/sd
 #EXTINF:-1 tvg-id="LifetimeMoviesEast.us@SD",LifetimeMoviesEast(360p)
 https://tvpass.org/live/LifetimeMoviesEast/sd
 
-
 #EXTINF:-1 tvg-id="LogoEast.us@SD",LogoEast(360p)
 https://tvpass.org/live/LogoEast/sd
 
-
-#EXTINF:-1 tvg-id="msg-madison-square-gardens.us@SD",msg-madison-square-gardens(360p)
-https://tvpass.org/live/msg-madison-square-gardens/sd
-
-#EXTINF:-1 tvg-id="msg-plus.us@SD",msg-madison-square-gardens(360p)
-https://tvpass.org/live/msg-plus/sd
-
 #EXTINF:-1 tvg-id="MSNBC.us@SD",msg-madison-square-gardens(360p)
 https://tvpass.org/live/MSNBC/sd
-
-#EXTINF:-1 tvg-id="marquee-sports-network.us@SD",marquee-sports-network(360p)
-https://tvpass.org/live/marquee-sports-network/sd
-
-#EXTINF:-1 tvg-id="metv-toons.us@SD",metv-toons(360p)
-https://tvpass.org/live/metv-toons/sd
-
 
 #EXTINF:-1 tvg-id="MLBNetowrk.us@SD",MLBNetowrk(360p)
 https://tvpass.org/live/MLBNetowrk/sd
