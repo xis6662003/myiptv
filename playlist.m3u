@@ -4,7 +4,7 @@ http://115.146.176.131:80/play/N03hdmyNePvJGy8dpWOJC7BFpmRhUmqeTlDsVmI1DZ4/ts
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="GMA" tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="ph live",GMA
 http://115.146.176.131:80/play/9O1L8psbpfoAU-iuodTG3ZXY_pvYrvNNfGe-ONBwHWQ/ts
 
-#EXTINF:-1 tvg-id="CineMo.ph@SD",CineMo (1080p)
+#EXTINF:-1 tvg-id=""tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" CineMo.ph@SD",CineMo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="CinemaOne.ph@SD",Cinema One (1080p)
