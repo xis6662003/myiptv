@@ -100,8 +100,8 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CNBC 
-https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NBC Sports Now
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CNN 
