@@ -4,31 +4,31 @@ http://115.146.176.131:80/play/N03hdmyNePvJGy8dpWOJC7BFpmRhUmqeTlDsVmI1DZ4/ts
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="GMA" tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="ph live",GMA
 http://115.146.176.131:80/play/9O1L8psbpfoAU-iuodTG3ZXY_pvYrvNNfGe-ONBwHWQ/ts
 
-#EXTINF:-1 tvg-id=""tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" CineMo.ph@SD",CineMo (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CineMo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",Cinema One (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cinema One (1080p)
 http://115.146.176.131:80/play/h7VRs_e0_QagS0g0Rqyz8Y4Gqac6-0Qvj6Lngi9jmW0/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png"",MYX (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MYX (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",PTV (1080p) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",PTV (1080p) 
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",TeleRadyo (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",TeleRadyo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",ANIME PLUS
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimexHIDIVE.us",ANIME x HIDIVE (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",ANIME x HIDIVE (720p)
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Kung Fu+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Kung Fu+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",UFC (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HI-YAH
