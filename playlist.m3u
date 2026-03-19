@@ -19,7 +19,7 @@ https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF:-1 tvg-id="TeleRadyo.ph@HD",TeleRadyo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg@SD",Aniplus Asia (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",ANIME PLUS
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us",ANIME x HIDIVE (720p)
@@ -31,443 +31,406 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06
 #EXTINF:-1 tvg-id="",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-YAH! (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HI-YAH
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TALKSPORTS.us@SD",TALK SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",TALK SPORTS
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WWE.us@SD",WWE SUPERSTAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",WWE SUPERSTAR
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OUTERSPHERE.us@SD", OUTERSPHERE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png", OUTERSPHERE
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 
-#EXTINF:-1 tvg-id="OUTDOOR.us@SD",OUTDOOR CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",OUTDOOR CHANNEL 
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanetEast.us@SD",Animal Planet 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Animal Planet 
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",beIN SPORTS XTRA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",beIN SPORTS XTRA 
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 
-#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Billiard TV (1080p)
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us@SD",BBCAmericaEast 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",BBCAmericaEast 
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BETEast.us@SD",BET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",BET
 http://23.237.104.106:8080/USA_BET/index.m3u8
 
-
-#EXTINF:-1 tvg-id="MMAFIGHT.us@SD",MMA FIGHT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MMA FIGHT
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="BTN.us@SD",BTN (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",BTN 
 https://tvpass.org/live/BTN/sd
 
-
-#EXTINF:-1 tvg-id="Bloomberg.us@SD",Bloomberg 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Bloomberg 
 https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Boomerang.us@SD",Boomerang 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Boomerang 
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="BravoEast.us@SD",BravoEast (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",BravoEast 
 https://tvpass.org/live/BravoEast/sd
 
 
-#EXTINF:-1 tvg-id="CSPAN2.us@SD",CSPAN2 (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CSPAN2 
 https://tvpass.org/live/CSPAN2/sd
 
 
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CNBC 
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
 
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",CrimePlusInvestigation (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CrimePlusInvestigation 
 https://tvpass.org/live/CrimePlusInvestigation/sd
 
-
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us@SD",Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxEast.us@SD",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CMTEast.us@SD",CMT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CNBC 
 https://tvpass.org/live/CNBC/sd
 
 
-#EXTINF:-1 tvg-id="CNN.us@SD",CNN (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CNN 
 https://tvpass.org/live/CNN/sd
 
 
-#EXTINF:-1 tvg-id="ComedyCentralEast.us@SD",Comedy Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-
-#EXTINF:-1 tvg-id="DiscoveryChannelEast.us@SD",DiscoveryChannelEast 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/sd
 
 
-
-#EXTINF:-1 tvg-id="DiscoveryFamily.us@SD",DiscoveryFamily(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Discovery Family
 https://tvpass.org/live/DiscoveryFamily/sd
 
-
-#EXTINF:-1 tvg-id="DiscoveryLife.us@SD",DiscoveryLife(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",DiscoveryLife
 https://tvpass.org/live/DiscoveryLife/sd
 
-#EXTINF:-1 tvg-id="DisneyChannelEast.us@SD",DisneyChannelEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Disney Channel
 https://tvpass.org/live/DisneyChannelEast/sd
 
 
-#EXTINF:-1 tvg-id="DisneyJuniorEast.us@SD",DisneyJuniorEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Disney Junior
 https://tvpass.org/live/DisneyJuniorEast/sd
 
-#EXTINF:-1 tvg-id="DisneyXDEast.us@SD",Disney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="EEast.us@SD",E!(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",E!
 https://tvpass.org/live/EEast/sd
 
 
-#EXTINF:-1 tvg-id="ESPN.us@SD",ESPN(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ESPN
 https://tvpass.org/live/ESPN/sd
 
-#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD",ESPN8 The Ocho (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",ESPN8 The Ocho 
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",ESPN U
 https://tvpass.org/live/ESPNU/sd
 
-#EXTINF:-1 tvg-id="ESPN2.us@SD",ESPN2(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ESPN 2
 https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:-1 tvg-id="",FOX Sports (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FOX Sports 
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FIFA+ 
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeformEast.us@SD",FreeformEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FreeformEast
 https://tvpass.org/live/FreeformEast/sd
 
 
-#EXTINF:-1 tvg-id="FuseEast.us@SD",FuseEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FuseEast
 https://tvpass.org/live/FuseEast/sd
 
-
-#EXTINF:-1 tvg-id="FoxBusiness.us@SD",FoxBusiness(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FoxBusiness
 https://tvpass.org/live/FoxBusiness/sd
 
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",FoxNewsChannel(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/sd
 
 
-#EXTINF:-1 tvg-id="FoxSports2.us@SD",FoxSports2(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FoxSports 2
 https://tvpass.org/live/FoxSports2/sd
 
-
-
-#EXTINF:-1 tvg-id="FuseEast.us@SD",FuseEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FuseEast
 https://tvpass.org/live/FuseEast/sd
 
 
-#EXTINF:-1 tvg-id="FXEast.us@SD",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Hallmark Drama
 https://tvpass.org/live/HallmarkDrama/sd
 
 
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteriesEast.us@SD",HallmarkMoviesMysteriesEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",HallmarkMovies Mysteries
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 
-
-#EXTINF:-1 tvg-id="HBOEast.us@SD",HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HBO HD
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO2East.us@SD",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-
-#EXTINF:-1 tvg-id="HBOComedyEast.us@SD",HBO Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HBO Family
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
-
-#EXTINF:-1 tvg-id="HBOSignatureEast.us@SD",HBOSignatureEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/sd
 
-#EXTINF:-1 tvg-id="HBOZoneEast.us@SD",HBOZoneEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HBO Zone
 http://23.237.104.106:8080/USA_HBOZONE/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HGTVEast.us@SD",HGTVEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HGT
 https://tvpass.org/live/HGTVEast/sd
 
-
-#EXTINF:-1 tvg-id="HistoryEast.us@SD",History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",History
 http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 
-#EXTINF:-1 tvg-id="",Alone By History (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",Alone By History 
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HLN.us@SD",HLN(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",HLN
 https://tvpass.org/live/HLN/sd
 
-
-
-#EXTINF:-1 tvg-id="IFCEast.us@SD",IFCEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",IFCEast
 https://tvpass.org/live/IFCEast/sd
 
-
-#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us@SD",InvestigationDiscoveryEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",InvestigationDiscoveryEast
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
 
-#EXTINF:-1 tvg-id="IONTVEast.us@SD",IONTVEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",IONTVEast
 https://tvpass.org/live/IONTVEast/sd
 
 
-#EXTINF:-1 tvg-id="LifetimeMoviesEast.us@SD",LifetimeMoviesEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",LifetimeMoviesEast(360p)
 https://tvpass.org/live/LifetimeMoviesEast/sd
 
-#EXTINF:-1 tvg-id="LogoEast.us@SD",LogoEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",LogoEast
 https://tvpass.org/live/LogoEast/sd
 
-#EXTINF:-1 tvg-id="MSNBC.us@SD",MSG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MSG
 https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MLBNetowrk.us@SD",MLB Netowrk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MLB Netowrk
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MoreMaxEast.us@SD",More Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",More Max
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="MovieMaxEast.us@SD",MovieMaxEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MovieMaxEast
 https://tvpass.org/live/MovieMaxEast/sd
 
-#EXTINF:-1 tvg-id="Motortrend.us@SD",Motortrend(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Motortrend
 https://tvpass.org/live/Motortrend/sd
 
 
-#EXTINF:-1 tvg-id="MSNBC.us@SD",MSNBC(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MSNBC
 https://tvpass.org/live/MSNBC/sd
 
-#EXTINF:-1 tvg-id="mtv-2-east.us@SD",mtv-2-east(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png", MTV 2
 https://tvpass.org/live/mtv-2-east/sd
 
-#EXTINF:-1 tvg-id="MTVEast.us@SD",MTV LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MTV LIVE
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="KidsPangTV.us@SD",Kids Pang TV (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Kids Pang TV 
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Baby Shark TV 
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug Kids (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Barbie and Friends (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Barbie and Friends 
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 
-#EXTINF:-1 tvg-id="HappyKids.us",HappyKids (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HappyKids 
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 
-#EXTINF:-1 tvg-id="NEWKPOP.us@SD",NEW K-POP (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NEW K-POP 
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicEast.us@SD",NationalGeographicEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",National Geographic
 https://tvpass.org/live/NationalGeographicEast/sd
 
-#EXTINF:-1 tvg-id="NationalGeographicWildEast.us@SD",National Geographic Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",National Geographic Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NewsmaxTV
 https://tvpass.org/live/NewsmaxTV/sd
 
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFLRedZone(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NFLRedZone
 https://tvpass.org/live/NFLRedZone/sd
 
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFLNetwork(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NFLNetwork
 https://tvpass.org/live/NFLNetwork/sd
 
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",NHL Network
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickJrEast.us@SD",NickJrEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Nick Jr
 https://tvpass.org/live/NickJrEast/sd
 
-#EXTINF:-1 tvg-id="NickelodeonEast.us@SD",NickelodeonEast(360p)
-https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="NicktoonsEast.us@SD",NicktoonsEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Nicktoons
 https://tvpass.org/live/NicktoonsEast/sd
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",ewsmaxTV(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ewsmaxTV
 https://tvpass.org/live/OWNEast/sd
 
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",NewsmaxTV(360p)
-https://tvpass.org/live/OutdoorChannel/sd
-https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OxygenEast.us@SD",OxygenEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",OxygenEast(360p)
 https://tvpass.org/live/OxygenEast/sd
 
-#EXTINF:-1 tvg-id="WNET.us@SD",WNET(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",WNET(360p)
 https://tvpass.org/live/WNET/sd
 
-#EXTINF:-1 tvg-id="Reelz.us@SD",Reelz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Reelz
 https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",SportsGrid (1080p)
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SCI-FI.us@SD",SCI-FI WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",SCI-FI WORLD
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeEast.us@SD",Showtime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEast.us@SD",StarzEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",StarzEast(360p)
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="SundanceTVEast.us@SD",Sundance
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Sundance
 http://23.237.104.106:8080/USA_SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-id="SyfyEast.us@SD",Syfy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sports Stars 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Trace Sports Stars 
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TBSEast.us@SD",TBSEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",TBSEast
 https://tvpass.org/live/TBSEast/sd
 
-#EXTINF:-1 tvg-id="TeenNickEast.us@SD",TeenNickEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",TeenNickEast
 https://tvpass.org/live/TeenNickEast/sd
 
-#EXTINF:-1 tvg-id="elemundoEast.us@SD",elemundoEast(360p)
-https://tvpass.org/live/TelemundoEast/sd
-
-#EXTINF:-1 tvg-id="CookingChannel.us@SD",Cooking Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cooking Channel
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us@SD",TennisChannel(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",TennisChannel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
-#EXTINF:-1 tvg-id="MytimemovieNetwork.us@SD",MyTime Movie Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MyTime Movie Network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTEast.us@SD",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",TNT
 http://23.237.104.106:8080/USA_TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="TravelChannelEast.us@SD",TravelChannelEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",TravelChannel
 https://tvpass.org/live/TravelChannelEast/sd
 
-#EXTINF:-1 tvg-id="truTVEast.us@SD",truTVEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",truTV
 https://tvpass.org/live/truTVEast/sd
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
-https://tvpass.org/live/TCMEast/sd
-
-#EXTINF:-1 tvg-id="TVOne.us@SD",NewsmaxTV(360p)
-https://tvpass.org/live/TVOne/sd
-
-#EXTINF:-1 tvg-id="USANetworkEast.us@SD",USA Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",USA Network
 https://tvpass.org/live/USANetworkEast/sd
 
-#EXTINF:-1 tvg-id="UniversalKidsEast.us@SD",Universal Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Universal Kids
 https://tvpass.org/live/UniversalKidsEast/sd
 
-#EXTINF:-1 tvg-id="UnivisionEast.us@SD",Univision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Univision
 https://tvpass.org/live/UnivisionEast/sd
 
-#EXTINF:-1 tvg-id="USANetworkEast.us@SD",USA Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",USA Network
 https://tvpass.org/live/USANetworkEast/sd
 
-
-#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Vevo Pop 
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PopstarTV.us@SD",Popstar! TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Popstar! TV 
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",NewsmaxTV(360p)
-https://tvpass.org/live/VICETV/sd
-
-#EXTINF:-1 tvg-id="WeTVEast.us@SD",WeTVEast(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",WeTVEast(360p)
 https://tvpass.org/live/WeTVEast/sd
 
-#EXTINF:-1 tvg-id="WPIX.us@SD",WPIX(360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",WPIX(360p)
 https://tvpass.org/live/WPIX/sd
 
-#EXTINF:-1 tvg-id="yes-network.us@SD",NewsmaxTV(360p)
-https://tvpass.org/live/yes-network/sd
-
-#EXTINF:-1 tvg-id="INFAST.nl",INFAST (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",INFAST (1080p)
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",OuterSphere (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 
-#EXTINF:-1 tvg-id="",Profesional Fighter League (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Profesional Fighter League (720p)
 https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PGATour.us",PGA Tour 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",PGA Tour 
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Best Action TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Best Action TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",Bang Bang TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Bang Bang TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",Best Drama TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Best Drama TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
-#EXTINF:-1 tvg-id="",Best Thriller TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Best Thriller TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",Cartoon Classics
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",Fight TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Fight TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",Sci-Fi World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Sci-Fi World
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",Xtrem Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us@AU",MovieSphere AU (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MovieSphere 
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us@UK",MovieSphere UK (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Movie
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD",Zoo Moo (Australia) (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Zoo Moo 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
