@@ -7,16 +7,16 @@ http://115.146.176.131:80/play/9O1L8psbpfoAU-iuodTG3ZXY_pvYrvNNfGe-ONBwHWQ/ts
 #EXTINF:-1 tvg-id=""tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" CineMo.ph@SD",CineMo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="CinemaOne.ph@SD",Cinema One (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",Cinema One (1080p)
 http://115.146.176.131:80/play/h7VRs_e0_QagS0g0Rqyz8Y4Gqac6-0Qvj6Lngi9jmW0/ts
 
-#EXTINF:-1 tvg-id="Myx.ph@HD",MYX (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png"",MYX (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="PTV.ph@HD",PTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",PTV (1080p) 
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
-#EXTINF:-1 tvg-id="TeleRadyo.ph@HD",TeleRadyo (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",TeleRadyo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/All_the_Anime_logo.png",ANIME PLUS
