@@ -210,7 +210,7 @@ http://23.237.104.106:8080/USA_HBOZONE/index.m3u8
 https://tvpass.org/live/HGTVEast/sd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",History
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",Alone By History 
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
