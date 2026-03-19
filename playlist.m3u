@@ -138,11 +138,11 @@ https://tvpass.org/live/EEast/sd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ESPN
 https://tvpass.org/live/ESPN/sd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",ESPN8 The Ocho 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",ESPN 8 The Ocho 
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png"",ESPN U
-https://tvpass.org/live/ESPNU/sd
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ESPN 2
 https://tvpass.org/live/ESPN2/sd
