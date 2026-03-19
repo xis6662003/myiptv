@@ -64,8 +64,8 @@ https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MMA FIGHT
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",BTN 
-https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",FOOD NETWORK
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Bloomberg 
 https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
