@@ -13,8 +13,8 @@ http://115.146.176.131:80/play/h7VRs_e0_QagS0g0Rqyz8Y4Gqac6-0Qvj6Lngi9jmW0/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MYX (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",PTV (1080p) 
-https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Kartoon Channel
+https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Film Rise
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
@@ -205,7 +205,6 @@ https://tvpass.org/live/HBOSignatureEast/sd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HBO Zone
 http://23.237.104.106:8080/USA_HBOZONE/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",HGT
 https://tvpass.org/live/HGTVEast/sd
