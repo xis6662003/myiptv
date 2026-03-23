@@ -109,7 +109,7 @@ https://tvpass.org/live/CNN/sd
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Discovery Channel
-https://tvpass.org/live/DiscoveryChannelEast/sd
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Discovery Family
