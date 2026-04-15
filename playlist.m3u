@@ -2,6 +2,10 @@
 
 #XELA-MESSAGE: info|WELCOME TO YOUR NEW APPS < ENJOY > -------
 
+#XELA-AD:promo|🔥 Subscribe to Toledo Cable TV! Visit: https://toledocabletv.com
+#XELA-AD:video|https://example.com/ad_video.mp4
+#XELA-AD:banner|https://example.com/ad_banner.jpg|https://toledocabletv.com
+
 #EXTINF:-1 xui-id="89" tvg-id="" tvg-name="KAPAMILYA" tvg-logo="http://115.146.176.131:80/images/a9ff7a33ed0f05356304efb5fee20731.png" group-title="ph live",KAPAMILYA
 http://122.54.37.2:80/zero/zero/89.m3u8
 
