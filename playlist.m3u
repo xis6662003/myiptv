@@ -17,7 +17,7 @@ http://122.54.37.2:80/zero/zero/14.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",CineMo (1080p)
-
+http://122.54.37.2:80/zero/zero/41.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cinema One (1080p)
