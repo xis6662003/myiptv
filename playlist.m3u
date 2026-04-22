@@ -13,7 +13,7 @@ http://122.54.37.2:80/play/S4ezaul3zh_p5IlLBt4n9A/m3u8
 
 #EXTM3U
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="GMA" tvg-logo="http://122.54.37.2:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="ph live",GMA
-http://122.54.37.2:80/play/ManTJhQ7m2bYIxLc2Fsd-g/m3u8
+http://122.54.37.2:8088/hls/abscbn.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cinrma One 
