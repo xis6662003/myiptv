@@ -17,7 +17,7 @@ EXTM3U
 http://122.54.37.2:8090/hls/gma.m3u8
 
 EXTM3U
-#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="TV-5" tvg-logo="s:1:/images/79a3ca86c5da35d152f99bc0fd23ff33.png" group-title="ph live",TV 5
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="TV-5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="ph live",TV 5
 http://122.54.37.2:8090/hls/tv5.m3u
 
 #EXTM3U
