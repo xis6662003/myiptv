@@ -8,23 +8,41 @@
 #XELA-AD:banner|https://raw.githubusercontent.com/xis6662003/myiptv/main/banner2.png|https://toledocabletv.com
 #XELA-AD:banner|https://raw.githubusercontent.com/xis6662003/myiptv/main/banner3.png|https://toledocabletv.com 
 
+EXTM3U
 #EXTINF:-1 xui-id="89" tvg-id="" tvg-name="KAPAMILYA" tvg-logo="http://122.54.37.2:80/images/a9ff7a33ed0f05356304efb5fee20731.png" group-title="ph live",KAPAMILYA
-http://122.54.37.2:8088/hls/abscbn.m3u8
+http://122.54.37.2:8090/hls/abscbn.m3u8
 
-#EXTM3U
+EXTM3U
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="GMA" tvg-logo="http://122.54.37.2:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="ph live",GMA
-http://122.54.37.2:8088/hls/abscbn.m3u8
+http://122.54.37.2:8090/hls/gma.m3u8
+
+EXTM3U
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="TV-5" tvg-logo="s:1:/images/79a3ca86c5da35d152f99bc0fd23ff33.png" group-title="ph live",TV 5
+http://122.54.37.2:8090/hls/tv5.m3u
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cinrma One 
-http://122.54.37.2:80/play/r7C28fhGiGvSG4w5kkXYpQ/m3u8
+http://122.54.37.2:8090/hls/cinemaone.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Cinema One (1080p)
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",PBO
+http://122.54.37.2:8090/hls/pbo.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",MYX (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",A2Z
+http://122.54.37.2:8090/hls/a2z.m3u8
+
+EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",PBA RUSH
+http://122.54.37.2:8090/hls/pbarush.m3u8
+
+EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ONE SPORTS
+http://122.54.37.2:8090/hls/onesports.m3u8
+
+EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",ONE PH
+http://122.54.37.2:8090/hls/oneph.m3u8
 
 
 #EXTM3U
